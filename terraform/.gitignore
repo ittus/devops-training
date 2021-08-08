@@ -21,3 +21,6 @@ override.tf.json
 *_override.tf.json
 
 **/*mykey*
+
+.DS_Store
+**/.DS_Store
